@@ -18,7 +18,7 @@ export function getStudentsData(): IStudentData[] {
      *
      * 1. Ivan Petrov 20 лет +7(555)555-55-50
      * 2. Stepan Petrov 19 лет +7(555)555-55-51
-     * 3. Pert Ivanov 19 лет
+     * 3. Petr Ivanov 19 лет
      *
      */
 }
